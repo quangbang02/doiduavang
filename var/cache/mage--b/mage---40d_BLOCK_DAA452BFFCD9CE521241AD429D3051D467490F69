@@ -1,0 +1,82 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602035768;s:6:"expire";i:1602122168;s:4:"tags";s:33:"40d_CAT_P,40d_BLOCK_HTML,40d_MAGE";}
+        <div class="grid-style-18 products wrapper grid products-grid">
+        <div class="products list items product-items owl-carousel" data-mage-init='{"themewidgets":{"codazon.slider":{"sliderConfig":{"nav":true,"dots":false,"autoplay":false,"autoplayTimeout":"5000","responsive":{"1900":{"items":5},"1600":{"items":5},"1420":{"items":5},"1280":{"items":5},"980":{"items":4.5},"768":{"items":3.5},"480":{"items":3.3},"320":{"items":2.3},"0":{"items":1.5}},"margin":20},"sameHeight":[".product-item-details",".product-item-description",".product-item-name"]}}}'>
+                                    <div class="item-group cdz-transparent">
+                        <div class="item product product-item">
+                <div class="product-item-info" data-container="product-grid">
+                                        					                    <div class="product-item-top">
+                        <a href="http://chothuochapu.vn/khoai-mon-le-pho-sp.html" class="product photo product-item-photo">
+                            <span class="product-image-container">
+                                <span class="product-image-wrapper" style="padding-bottom: 100%;">
+                                    <img class="product-image-photo main-img" src="http://chothuochapu.vn/pub/media/catalog/product/cache/23104f673ee0e2163f40e22dc84b3797/1/_/1.1_khoai_mon_le_pho-jpg.jpg" />
+                                    <img class="product-image-photo hovered-img" src="http://chothuochapu.vn/pub/media/catalog/product/cache/23104f673ee0e2163f40e22dc84b3797/k/h/khoai_m_n_l_ph_1.jpg" />
+                                </span>
+                            </span>
+                        </a>                        
+                        												</div>
+						                    
+                    <div class="product details product-item-details">
+                        <div class="product-item-inner">
+                                                        <strong class="product name product-item-name">
+                                <a class="product-item-link" href="http://chothuochapu.vn/khoai-mon-le-pho-sp.html">
+                                    Khoai môn lệ phố                                </a>
+                            </strong>
+                                                        							                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="2" data-price-box="product-id-2">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Giá đặc biệt</span>
+        <span  id="old-price-2-final_price"                data-price-amount="48000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">48.000 VNĐ</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Giá thông thường</span>
+        <span  id="old-price-2-final_price"                data-price-amount="50000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">50.000 VNĐ</span></span>
+        </span>
+    </span>
+
+</div>							                                                       
+                            
+                            <div class="button-wrap">
+                                                                <div class="cart-qty">
+                                                                                                        <form data-mage-init='{"catalogAddToCart":{}}' data-role="tocart-form" action="http://chothuochapu.vn/checkout/cart/add/uenc/aHR0cDovL2Nob3RodW9jaGFwdS52bi8%2C/product/2/" method="post">
+                                        <input type="hidden" name="product" value="2">
+                                        <input type="hidden" name="uenc" value="aHR0cDovL2Nob3RodW9jaGFwdS52bi9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJOb2IzUm9kVzlqYUdGd2RTNTJiaTglMkMvcHJvZHVjdC8yLw,,">
+                                        <input name="form_key" type="hidden" value="Sb7dtyKizNS08Hsn" />                                        <div class="field qty">
+                                            <label class="label" for="qty"><span>SL</span></label>
+                                            <div class="control">
+                                                <div class="qty-ctl">
+                                                    <button title="Decrease" type="button" data-role="change_cart_qty" class="decrease" data-qty="-1" class="decrease"></button>
+                                                </div>
+                                                <input type="number" class="qty" name="qty" maxlength="12" value="1" title="SL" class="input-text qty" data-validate="{&quot;required-number&quot;:true}" />
+                                                <div class="qty-ctl">
+                                                    <button title="Increase" type="button" data-role="change_cart_qty" data-qty="1" class="increase"></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <button type="submit" title="Chọn mua" class="action tocart primary">
+                                            <span>Chọn mua</span>
+                                        </button>
+                                    </form>
+                                                                </div>
+                                                                
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        </div>
+                                </div>
+    </div>

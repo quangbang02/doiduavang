@@ -1,0 +1,20 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602037297;s:6:"expire";i:1602123697;s:4:"tags";s:49:"40d_BLOCK_HTML,40d_MFB_C_21,40d_MFB_C_27,40d_MAGE";}
+
+
+
+<div class="widget block block-categories" data-bind="scope: 'categories'">
+    <div class="block-title">
+        <strong>Nhóm</strong>
+    </div>
+
+	<ul class="accordion"  id="accordion-2" data-mage-init='{"themewidgets":{"codazon.toggleList":{"item":"li"}}}'>
+					<li>
+					<a href="http://chothuochapu.vn/goc-am-thuc/bep-cua-ban">
+						Bếp của bạn                                                (4)
+                        					</a>
+			</li>				<li>
+					<a href="http://chothuochapu.vn/goc-am-thuc/goc-dinh-duong">
+						Góc dinh dưỡng                                                (1)
+                        					</a>
+				</ul>
+</div>

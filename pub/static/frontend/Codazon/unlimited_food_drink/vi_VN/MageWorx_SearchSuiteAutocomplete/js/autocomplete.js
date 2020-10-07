@@ -1,0 +1,1 @@
+/var/www/html/app/code/MageWorx/SearchSuiteAutocomplete/view/frontend/web/js/autocomplete.js

@@ -1,0 +1,1 @@
+/var/www/html/app/code/Codazon/ProductFilter/view/frontend/web/js/firstload.js

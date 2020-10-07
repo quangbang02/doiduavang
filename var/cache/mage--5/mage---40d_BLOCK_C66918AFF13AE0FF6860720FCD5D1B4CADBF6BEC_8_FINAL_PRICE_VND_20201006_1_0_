@@ -1,0 +1,15 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1601948621;s:6:"expire";i:1602035021;s:4:"tags";s:45:"40d_BLOCK_HTML,40d_CAT_P_8,40d_CAT_P,40d_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="8" data-price-box="product-id-8">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <span  id="product-price-8"                data-price-amount="44000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">44.000 VNĐ</span></span>
+                <meta itemprop="price" content="44000" />
+        <meta itemprop="priceCurrency" content="VND" />
+    </span>
+
+</div>

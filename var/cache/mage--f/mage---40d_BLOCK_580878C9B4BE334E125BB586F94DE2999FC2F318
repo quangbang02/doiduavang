@@ -1,0 +1,18 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602037297;s:6:"expire";i:1602123697;s:4:"tags";s:23:"40d_BLOCK_HTML,40d_MAGE";}
+
+<div class="widget block block-tagclaud" data-bind="scope: 'tagclaud'">
+    <div class="block-title">
+        <strong>Các Thẻ Gắn</strong>
+    </div>
+
+    <div class="tagclaud-hld">
+                    <span class="largest">
+            <a href="http://chothuochapu.vn/goc-am-thuc/tag/tom" title="tôm">
+                tôm            </a>
+        </span>
+                    <span class="medium">
+            <a href="http://chothuochapu.vn/goc-am-thuc/tag/ca" title="cá">
+                cá            </a>
+        </span>
+        </div>
+</div>

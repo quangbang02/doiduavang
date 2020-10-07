@@ -1,0 +1,83 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602002992;s:6:"expire";i:1602089392;s:4:"tags";s:36:"40d_MEGAMENU,40d_BLOCK_HTML,40d_MAGE";}
+
+<div class="cdz-menu no-loaded cdz-toggle-menu  menu-icon dropdown-menustyle01 cdz-normal" id="menu-27-5f7ca0300a81c" data-mage-init='{"megamenu":{"dropdownEffect":"normal","type":2,"useAjaxMenu":0,"menu":"menu-doc-noi-bat","ajaxUrl":"http:\/\/chothuochapu.vn\/megamenu\/index\/ajax\/","tabletLinkText":"\u003Cspan class=\"link-prefix\"\u003EGo to\u003C\/span\u003E \u003Cspan class=\"link-text\"\u003E%1\u003C\/span\u003E"}}'>
+	<ul class="groupmenu">
+	<li class="item level0  level-top" >
+	<a class="menu-link"  href="http://chothuochapu.vn/gioi-thieu/"> <span>Giới thiệu</span></a>
+        </li>
+<li class="item level0  level-top parent" >
+	<a class="menu-link"  href="#"> <span>Danh mục sản phẩm</span></a>
+    <span class="cdz-item-tag" style="color:#ffffff;background:#ff8000;border-color:#ff8000">hot</span>        <ul class="groupmenu-drop">
+    	<li class="item level1 nav-" >
+	<a class="menu-link"  href="http://chothuochapu.vn/khoai-mon-le-pho.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/01-khoai-mon-le-pho.png"></i> <span>Khoai môn Lệ Phố</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/banh-khoai-que-huong.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/02-banh-khoai-que-huong.png"></i> <span>Bánh khoai quê hương</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/ngon-ngon-banh-chuoi.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/03-ngon-ngon-banh-chuoi.png"></i> <span>Ngon ngon bánh chuối</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/nem-gia-dinh.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/04-nem-gia-dinh.png"></i> <span>Nem gia đình</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/cha-gio.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/05-cha-gio.png"></i> <span>Chả giò</span></a>
+        </li>
+<li class="item level1 nav-pizza" >
+	<a class="menu-link"  href="http://chothuochapu.vn/banh-pizza-happy.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/06-banh-pizza-happy.png"></i> <span>Bánh pizza happy</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/vien-ngo-nghinh.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/07-vien-ngo-nghinh.png"></i> <span>Viên ngộ nghĩnh</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/xoi-chien-phong.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/08-xoi-chien-phong.png"></i> <span>Xôi chiên phồng</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/chay-tu-tam.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/09-chay-tu-tam.png"></i> <span>Chay từ tâm</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/cha.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/10-cha.png"></i> <span>Chả</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/thit-xien-que.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/11-thit-xien-que.png"></i> <span>Thịt xiên que</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/pho-mai.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/12-pho-mai.png"></i> <span>Phomai</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/nem-chua-ran.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/13-nem-chua-ran.png"></i> <span>Nem chua rán</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/lau-sum-vay.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/14-lau-sum-vay.png"></i> <span>Lẩu sum vầy</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/nieu-tinh-que.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/15-nieu-tinh-que.png"></i> <span>Niêu tình quê</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/rau-sac-mau.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/16-rau-sac-mau.png"></i> <span>Rau sắc màu</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/lao-ngu-ca.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/17-lao-ngu-ca.png"></i> <span>Lão ngư cá</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/thit-bo-nhap-khau.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/18-thi-bo-nhap-khau.png"></i> <span>Thịt bò nhập khẩu</span></a>
+        </li>
+<li class="item level1 " >
+	<a class="menu-link"  href="http://chothuochapu.vn/san-pham-tom.html"><i class="menu-icon img-icon"><img src="http://chothuochapu.vn/pub/media/wysiwyg/codazon/menu/icon_ddv_cate/19-san-pham-tom.png"></i> <span>Sản phẩm tôm</span></a>
+        </li>
+    </ul>
+    </li>
+<li class="item level0  level-top" >
+	<a class="menu-link"  href="http://chothuochapu.vn/sieu-thi/"> <span>Hệ thống siêu thị</span></a>
+        </li>
+<li class="item level0  level-top" >
+	<a class="menu-link"  href="http://chothuochapu.vn/goc-am-thuc/"> <span>Góc ẩm thực</span></a>
+        </li>
+<li class="item level0  level-top" >
+	<a class="menu-link"  href="http://chothuochapu.vn/cau-hoi-thuong-gap/"> <span>Câu hỏi thường gặp</span></a>
+        </li>
+<li class="item level0  level-top" >
+	<a class="menu-link"  href="http://chothuochapu.vn/contact/"> <span>Liện hệ</span></a>
+        </li>
+	</ul>
+</div>

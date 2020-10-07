@@ -1,0 +1,83 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602016842;s:6:"expire";i:1602103242;s:4:"tags";s:40:"40d_BRAND_SLIDER,40d_BLOCK_HTML,40d_MAGE";}
+
+<div class="block block-brands">
+	<div class="block-title"><strong id="block-brands-heading">Đối tác</strong></div>
+    <div class="block-content">
+        <div class="brand-slider-wrapper featured-brands no-loaded" data-role="slider-wrapper">
+            <div class="brand-loader double-bounce-spinner" data-role="slider-loader">
+                <div class="double-bounce1"></div>
+                <div class="double-bounce2"></div>
+            </div>
+            <div class="brand-slider items owl-carousel" data-mage-init='{"themewidgets":{"codazon.slider":{"sliderConfig":{"margin":20,"nav":true,"dots":false,"responsive":{"1200":{"items":2,"nav":true},"768":{"items":1,"nav":false},"560":{"items":4},"480":{"items":3},"0":{"items":3}}},"noLoadedClass":"no-loaded"}}}'>
+                                                <div class="slide-item">
+                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="AEON MALL" href="http://chothuochapu.vn/brand/aeon-mall">
+                                <img class="img-responsive zoom-eff" alt="AEON MALL" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/Aeon_Mall.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="BigC" href="http://chothuochapu.vn/brand/bigc">
+                                <img class="img-responsive zoom-eff" alt="BigC" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/codazon/brand/bigc.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Citi Mart" href="http://chothuochapu.vn/brand/citi-mart">
+                                <img class="img-responsive zoom-eff" alt="Citi Mart" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/Aeon-Citimart-1024x1024_3x.png" />
+                            </a>
+                        </div>
+                                </div>
+                                                                <div class="slide-item">
+                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Co.op Food" href="http://chothuochapu.vn/brand/co.op-food">
+                                <img class="img-responsive zoom-eff" alt="Co.op Food" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/coopfood_3x.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Co.op Mart" href="http://chothuochapu.vn/brand/co.op-mart">
+                                <img class="img-responsive zoom-eff" alt="Co.op Mart" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/codazon/brand/coopmart.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Dabaco Group" href="http://chothuochapu.vn/brand/dabaco-group">
+                                <img class="img-responsive zoom-eff" alt="Dabaco Group" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/Dabaco_3x.png" />
+                            </a>
+                        </div>
+                                </div>
+                                                                <div class="slide-item">
+                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Lotte Mart" href="http://chothuochapu.vn/brand/lotte-mart">
+                                <img class="img-responsive zoom-eff" alt="Lotte Mart" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/lottemart.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Mega Market" href="http://chothuochapu.vn/brand/mega-market">
+                                <img class="img-responsive zoom-eff" alt="Mega Market" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/codazon/brand/megamarket.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Satra Foods" href="http://chothuochapu.vn/brand/satra-foods">
+                                <img class="img-responsive zoom-eff" alt="Satra Foods" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/codazon/brand/satra.png" />
+                            </a>
+                        </div>
+                                </div>
+                                                                <div class="slide-item">
+                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="T-Mart" href="http://chothuochapu.vn/brand/t-mart">
+                                <img class="img-responsive zoom-eff" alt="T-Mart" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/tmart.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Thanh Do" href="http://chothuochapu.vn/brand/thanh-do">
+                                <img class="img-responsive zoom-eff" alt="Thanh Do" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/wysiwyg/codazon/brand/thanhdo.png" />
+                            </a>
+                        </div>
+                                                                        <div class="brand-item">
+                            <a class="brank-link abs-img" style="padding-bottom: 100%" title="Vinmart" href="http://chothuochapu.vn/brand/vinmart">
+                                <img class="img-responsive zoom-eff" alt="Vinmart" src="http://chothuochapu.vn/pub/media/codazon_cache/brand/150x150/codazon/brand/vinmart.png" />
+                            </a>
+                        </div>
+                                </div>
+                                            </div>
+        </div>
+    </div>
+</div>

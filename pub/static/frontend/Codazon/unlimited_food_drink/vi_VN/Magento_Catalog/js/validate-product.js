@@ -1,0 +1,1 @@
+/var/www/html/app/design/frontend/Codazon/unlimited/default/Magento_Catalog/web/js/validate-product.js

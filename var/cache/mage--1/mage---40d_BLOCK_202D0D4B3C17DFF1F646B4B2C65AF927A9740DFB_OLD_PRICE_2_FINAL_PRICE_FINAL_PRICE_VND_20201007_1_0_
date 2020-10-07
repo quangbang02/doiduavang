@@ -1,0 +1,28 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602034513;s:6:"expire";i:1602120913;s:4:"tags";s:45:"40d_BLOCK_HTML,40d_CAT_P_2,40d_CAT_P,40d_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="2" data-price-box="product-id-2">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Giá đặc biệt</span>
+        <span  id="old-price-2-final_price"                data-price-amount="48000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">48.000 VNĐ</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Giá thông thường</span>
+        <span  id="old-price-2-final_price"                data-price-amount="50000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">50.000 VNĐ</span></span>
+        </span>
+    </span>
+
+</div>

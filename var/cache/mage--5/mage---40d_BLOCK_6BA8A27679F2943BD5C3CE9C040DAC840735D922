@@ -1,0 +1,8 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602035725;s:6:"expire";i:1602122125;s:4:"tags";s:33:"40d_CAT_P,40d_BLOCK_HTML,40d_MAGE";}
+
+<div class="no-loaded" data-mage-init='{"Codazon_ProductFilter\/js\/firstload":{"ajaxUrl":"http:\/\/chothuochapu.vn\/productfilter\/index\/firstLoad\/","currentUrl":"http:\/\/chothuochapu.vn\/","jsonData":{"is_ajax":1,"title":null,"display_type":"last_promotion_products","products_count":"15","order_by":"price ASC","show":"thumb,name,review,price,addtocart,label","thumb_width":"150","thumb_height":"150","filter_template":"custom","custom_template":"grid-style-18.phtml","show_slider":"1","conditions_encoded":"^[`1`:^[`type`:`Magento||CatalogWidget||Model||Rule||Condition||Combine`,`aggregator`:`all`,`value`:`1`,`new_child`:``^]^]","slider_nav":1,"slider_dots":0,"slider_autoplay":0,"slider_autoplay_timeout":"5000","total_cols":5,"total_rows":1,"slider_margin":20,"cache_lifetime":86400,"product_ids":null,"cache_key_info":["39b0dd8485575cdd2b3bb58f40d0fc2e"],"items_1900":5,"items_1600":5,"items_1420":5,"items_1280":5,"items_980":4.5,"items_768":3.5,"items_480":3.3,"items_320":2.3,"items_0":1.5}}}'>
+    <div class="brand-loader double-bounce-spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+    </div>
+</div>

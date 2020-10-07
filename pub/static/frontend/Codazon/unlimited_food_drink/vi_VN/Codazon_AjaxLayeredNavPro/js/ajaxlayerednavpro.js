@@ -1,0 +1,1 @@
+/var/www/html/app/code/Codazon/AjaxLayeredNavPro/view/frontend/web/js/ajaxlayerednavpro.js
